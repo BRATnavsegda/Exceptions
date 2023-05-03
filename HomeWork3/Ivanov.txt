@@ -1,0 +1,8 @@
+--------------------
+Surname: Ivanov
+Name: Ivan
+Patronymic: Ivanovich
+Birthday: 12.12.1975
+Phone number: 4564562
+Sex: m
+--------------------
